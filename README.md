@@ -1,3 +1,5 @@
+#还不知道怎么用，学会第一时间上自拍
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CoGore/CoGore.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
