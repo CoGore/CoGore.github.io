@@ -2,7 +2,7 @@
 
 # 这是一个[百度](http://www.baidu.com)超链接
 
-# 这是一张[可爱](https://img.moegirl.org/common/b/b2/%E8%86%9C%E8%9B%A4.png)的图片
+# 这是一张[简单](https://img.moegirl.org/common/b/b2/%E8%86%9C%E8%9B%A4.png)的图片
 
 ## Welcome to GitHub Pages
 
