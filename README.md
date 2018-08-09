@@ -1,5 +1,9 @@
 # 还不知道怎么用，学会第一时间上自拍
 
+# 这是一个[百度](http://www.baidu.com)超链接
+
+# 这是一张在[夏威夷](//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jiang_Zemin_at_Hickam_Air_Base%2C_October_26%2C_1997%2C_cropped.jpg/250px-Jiang_Zemin_at_Hickam_Air_Base%2C_October_26%2C_1997%2C_cropped.jpg)拍的照片
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/CoGore/CoGore.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
