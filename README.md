@@ -2,7 +2,7 @@
 
 # 这是一个[百度](http://www.baidu.com)超链接
 
-# 这是一张在[夏威夷](//upload.wikimedia.org/wikipedia/commons/thumb/8/87/Jiang_Zemin_at_Hickam_Air_Base%2C_October_26%2C_1997%2C_cropped.jpg/250px-Jiang_Zemin_at_Hickam_Air_Base%2C_October_26%2C_1997%2C_cropped.jpg)拍的照片
+# 这是一张[可爱](https://img.moegirl.org/common/b/b2/%E8%86%9C%E8%9B%A4.png)的图片
 
 ## Welcome to GitHub Pages
 
