@@ -1,8 +1,6 @@
 # 还不知道怎么用，学会第一时间上自拍
 
-# 这是一个[百度](http://www.baidu.com)超链接
-
-# 这是一张[简单](https://i.pinimg.com/originals/d1/cb/a4/d1cba456e3c2f1db6c1f8934b935cad8.jpg)的图片
+## 没错，你希望看到的那个视频在[这里](blob:https://www.youtube.com/6b0ab242-4ada-420e-b6b3-df0324823dc1)。
 
 ## Welcome to GitHub Pages
 
