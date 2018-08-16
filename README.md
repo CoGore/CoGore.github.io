@@ -1,6 +1,6 @@
 # 还不知道怎么用，学会第一时间上自拍
 
-## 没错，你希望看到的那个视频在[这里](https://www.youtube.com/6b0ab242-4ada-420e-b6b3-df0324823dc1)（需要翻墙）。
+## 没错，你希望看到的那个视频在[这里](https://www.youtube.com/watch?v=1yQ5OxOXyi4)（需要爬墙）。
 Aug. 16, 2018
 
 ## Welcome to GitHub Pages
